@@ -10,6 +10,7 @@
 ![image](https://github.com/muhamadabdulanas/Sistem-penjualan-buku-online/assets/115569493/beea8233-143c-4e43-8726-a9c9bb840032)
 ![Screenshot (29)](https://github.com/muhamadabdulanas/UAS-Analisa-Sistem-penjualan-buku-online/assets/115569493/22ddc7de-7be1-4039-932b-0158b46b661c)
 ![Screenshot (30)](https://github.com/muhamadabdulanas/UAS-Analisa-Sistem-penjualan-buku-online/assets/115569493/355b9dc6-3413-47e0-8d74-bf4cd2ddd30e)
+
 ![Screenshot (31)](https://github.com/muhamadabdulanas/UAS-Analisa-Sistem-penjualan-buku-online/assets/115569493/2b30549e-49e2-4b06-b4b0-1f72c2ef93e2)
 
 
